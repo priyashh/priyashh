@@ -3,7 +3,7 @@
 A personal portfolio website hosted on GitHub Pages showcasing data analysis projects.
 
 ## Live Site
-https://YOUR_USERNAME.github.io
+
 https://priyashh.github.io./
 
 ## Projects
